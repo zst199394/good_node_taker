@@ -1,4 +1,3 @@
-
 const fs = require('fs');
 const path = require('path');
 const Notes = require(path.join(__dirname,'../data/data.js'));//?get a class?
