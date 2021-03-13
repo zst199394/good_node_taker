@@ -1,7 +1,6 @@
 # 11 Express.js: Note Taker
-  [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) ![GitHub license](https://img.shields.io/badge/Made%20by-%40zst199394-orange)    
-  ![node.js badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)    
-  Example_page :
+  [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) !
+  Heroku : https://damp-refuge-68771.herokuapp.com/notes
 
   ## Description
   The project is to build a modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
