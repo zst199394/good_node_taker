@@ -7,8 +7,8 @@
 
   The application’s front end has already been created. It's your job to build the back end, connect the two, and then deploy the entire application to Heroku.
 
-  ![demo](./Develop/dist/img/demo.gif)
-  ![page](./Develop/dist/img/mypage.png)
+  ![demo](./public/assets/img/note.png)
+  ![page](./public/assets/img/note.gif)
 
 
   ## Table of contents
